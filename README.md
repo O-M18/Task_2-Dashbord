@@ -74,8 +74,6 @@ Data source: Global Superstore Dataset .
 
 ---
 
-## 📫 Contact
 
-Feel free to reach out if you'd like to collaborate, suggest improvements, or learn more about the project!
 
 
